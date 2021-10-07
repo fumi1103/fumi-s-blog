@@ -39,7 +39,7 @@ export default () => (
             </figure>
             <h3>フルーツ</h3>
             <p>FRUIT</p>
-            <p>甘くてすっぱくておいしい果実たち。<br />旬のフルーツを満喫します。</p>
+            <p>甘くてすっぱくておいしい果実たち。<br />旬のフルーツを満喫します</p>
           </div>
           <div className="detail">
             <figure>
